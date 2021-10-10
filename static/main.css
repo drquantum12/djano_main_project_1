@@ -1,0 +1,21 @@
+.main-text{
+    color: aliceblue;
+}
+.box{
+    padding: 2% 2%;
+    margin: 12% 12% 2%; 
+    border-color: rgb(238, 233, 233); 
+    border-radius: 2%;
+    border-style: solid;
+}
+.final-box{
+    padding: 2% 2%;
+    margin: 12% 12% 2%; 
+    border-color: rgb(238, 233, 233); 
+    border-radius: 2%;
+    border-style: solid;
+    background-color: #0d6efd;
+    justify-content: center; 
+    color: azure;
+    height: 50%;
+}
